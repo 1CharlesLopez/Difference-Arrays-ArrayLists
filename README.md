@@ -1,2 +1,3 @@
-![Program Output](output.png)
+![Program Output](outputcode.png)
+
 
